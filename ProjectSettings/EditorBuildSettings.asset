@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: f55fd41e0474c084d8a26a46ffa6e912
+  - enabled: 1
+    path: Assets/Scenes/Pure_TakeOver.unity
+    guid: 067c00a360a11e349a2ee214ea95bc94
+  - enabled: 1
+    path: Assets/Scenes/Attack.unity
+    guid: 5edd4b52b0f60984cbb6743687cbf0dc
+  - enabled: 1
+    path: Assets/Scenes/Defend.unity
+    guid: 8b4ddd35c004cf949887b08bc20d88a1
+  - enabled: 1
+    path: Assets/Scenes/Movie.unity
+    guid: 025534a001704dc4ba972b5c8043818e
+  m_configObjects: {}

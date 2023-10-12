@@ -1,0 +1,4 @@
+repository "URP_test@srtp_zju@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
